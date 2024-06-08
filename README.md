@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+IA e o Futuro do Trabalho
 
-## 🚀 Introdução
+📒 Descrição
+Este projeto é o trabalho de conclusão do BOOTCAMP de IA Generativas. O objetivo era criar um ebook utilizando IA para todas as etapas do processo, desde a definição do tema até a criação e formatação final do conteúdo. O tema escolhido foi "IA e o Futuro do Trabalho".
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
+ChatGPT: Utilizado para definir o tema do ebook, criar o conteúdo e revisar os textos.
+Gamma.app: Usado para a formatação, design e compilação do ebook, garantindo uma apresentação visualmente atraente e profissional.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🧐 Processo de Criação
+Definição do Tema: Através do ChatGPT, foram exploradas várias ideias e tópicos relevantes sobre IA e seu impacto no mercado de trabalho. Após várias interações e refinamentos, o tema "IA e o Futuro do Trabalho" foi escolhido.
+Criação do Conteúdo: Utilizando o ChatGPT, foram gerados os textos que compõem o ebook. Cada seção foi cuidadosamente elaborada, abrangendo desde a introdução ao impacto da IA em diferentes setores e profissões.
+Formatação e Design: Com o conteúdo pronto, foi utilizado o Gamma.app para a criação do layout do ebook. As ferramentas do Gamma.app permitiram personalizar a apresentação, inserindo gráficos, imagens e diagramas que complementam o texto e tornam o ebook mais dinâmico e interessante.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🚀 Resultados
+O resultado final foi um ebook completo, visualmente atraente e informativo sobre "IA e o Futuro do Trabalho". O uso combinado de ChatGPT e Gamma.app possibilitou a criação de um material rico em conteúdo e com um design profissional, demonstrando o potencial das IAs generativas na produção de projetos complexos.
+Link: [IA-e-o-Futuro-do-Trabalho.pdf](https://github.com/user-attachments/files/15746219/IA-e-o-Futuro-do-Trabalho.pdf)
 
-### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+Criar um ebook totalmente com o auxílio de IA foi um desafio interessante e enriquecedor. A principal dificuldade foi garantir que o conteúdo gerado pela IA fosse coeso e relevante, exigindo uma curadoria cuidadosa. No entanto, a experiência mostrou como as ferramentas de IA podem ser poderosas aliadas na criação de projetos criativos e complexos, economizando tempo e recursos enquanto mantêm um alto padrão de qualidade.
